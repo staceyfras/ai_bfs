@@ -1,5 +1,9 @@
 # ai_bfs
 
+### Language
+* Language: Python
+* Version: 3.7.1
+
 ### Instructions
 
 1.  Write a program using the programming language that you chose in Assignment 1 if applicable. Note that this program is NOT related to your project, and it’s just to show me you are ready for (or start to learn) the programming language. If you choose the paper option, you can use any language that you prefer.
