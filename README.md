@@ -1,4 +1,4 @@
-# ai_bfs
+# ai_bfs Assignment: A Breadth-First Search algorithm for CSUF CPSC 481 Artificial Intelligence
 
 ### Language
 * Language: Python
